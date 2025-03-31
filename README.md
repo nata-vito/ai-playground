@@ -2,11 +2,11 @@
 For IA Studies projects
 
 ```sh
-git clone https://github.com/nata-vito/ia-playground.git
+git clone https://github.com/nata-vito/ai-playground.git
 
 conda create -n ia python==3.9
 conda activate ia
 
-cd ia-playground
+cd ai-playground
 pip install -r requirements.txt
 ```
